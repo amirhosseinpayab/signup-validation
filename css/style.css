@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.signup{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+}
+
+.signup input{
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 1em;
+    border-radius: 0.5rem;
+}
+
+.signup button{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+    width: 10%;
+    margin: 1rem;
+}
+
+.signup button:hover{
+    background-color: skyblue;
+    transition: 0.3s;
+}
