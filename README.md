@@ -14,4 +14,4 @@ CSS3
 JavaScript (Vanilla)
 
 ## 📸 Preview
-![Preview](https://cdn.imgurl.ir/uploads/o135231_sign_up.png)
+![Preview](./signup.png)
